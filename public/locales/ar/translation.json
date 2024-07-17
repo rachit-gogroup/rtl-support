@@ -1,0 +1,48 @@
+{
+    "header": {
+        "for_startups": "للشركات الناشئة",
+        "for_innovation_units": "لوحدات الابتكار",
+        "success_stories": "قصص النجاح",
+        "carrier": "الحياة الوظيفية",
+        "get_in_touch": "تواصل معنا"
+    },
+    "body": {
+        "modern_venture_platform": "منصة المغامرة الحديثة</1>منصة المغامرة",
+        "startups_get_going": "أين تنطلق الشركات الناشئة وتستمر في النمو",
+        "start_building_today": "ابدأ البناء اليوم",
+        "fulltime_talent": "مواهب بدوام كامل",
+        "loved_by_leaders": "محبوب من قبل القادة",
+        "concepts_validated": "المفاهيم التي تم التحقق من صحتها",
+        "startups_launched": "إطلاق الشركات الناشئة",
+        "teams_build": "الفرق التي تم إنشاؤها",
+        "fundraised": "جمع التبرعات",
+        "venture_platform_work": "عمل المنصة؟<1/>كيف يمكن للمشروع",
+        "venture_platform_accelerates": "تعمل منصة GoGroup للمشاريع على تسريع أول 100 يوم لك ويقود نجاحك في الأيام العشرة آلاف القادمة",
+        "discover_co_pilot": "مساعد طيار استكشافي",
+        "find_test_right_idea": "ابحث عن الفكرة (الأفكار) المناسبة واختبرها",
+        "enhance_your_idea": "عزّز أفكارك مع أدوات GoGroup التي أثبتت جدواها وسنوات خبرتها الطويلة.",
+        "explore": "استكشف -> استكشاف",
+        "dedicated_venture_teams": "فرق عمل المشاريع المخصصة",
+        "full_time_long_team": "فرق عمل بدوام كامل وطويل الأجل لشركتك الناشئة",
+        "build_and_scale": "كوِّن فريقك ووسِّع نطاقه من خلال منصتنا للمشاريع من أجل تنفيذ سريع ومتميز لفكرتك الناشئة.",
+        "venture_studio": "فينتشر ستوديو",
+        "pre-validated-ideas": "ابدأ إحدى أفكارنا التي تم التحقق من صحتها مسبقاً",
+        "identify_and_evaluate": "من خلال استوديو المشاريع الخاص بنا، نحدد باستمرار الأفكار الواعدة للمؤسسين الطموحين ونقيّمها."
+    },
+    "footer": {
+        "startups_get_going": "أين تنطلق الشركات الناشئة وتستمر في النمو",
+        "company": "الشركة",
+        "for_startups": "للشركات الناشئة",
+        "for_innovation_units": "لوحدات الابتكار",
+        "success_stories": "قصص النجاح",
+        "gogroup_studios": "GoGroup Studios",
+        "career": "الحياة الوظيفية",
+        "legal": "قانوني",
+        "imprint": "بصمة",
+        "data_protection": "حماية البيانات",
+        "privacy_policy": "سياسة الخصوصية",
+        "contact": "اتصل بنا",
+        "jobs": "الوظائف",
+        "copyright": "©2024 GoGroup GmbH. جميع الحقوق محفوظة"
+      }
+}
