@@ -1,0 +1,1 @@
+import{j as o}from"./index-floRWUXN.js";import{B as r}from"./HomePage-CWn7F19l.js";import{T as s}from"./siteConstants-P3laEUfd.js";function n({textColor:i}){return o.jsxs(r,{display:"flex",children:[o.jsx(r,{className:"dot-circle"}),o.jsx(s,{color:i,marginInlineStart:1,lineHeight:1,variant:"h2",children:"GoGroup"})]})}export{n as G};
