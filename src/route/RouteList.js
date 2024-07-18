@@ -8,7 +8,7 @@ export const PUBLIC_ROUTES = [
   {
     id: 1,
     label: 'Landing page',
-    path: '/',
+    path: '/rtl-support',
     element: HomePage
   }
 ]
