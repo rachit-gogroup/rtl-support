@@ -12,7 +12,8 @@ const languages = [
 
 const LanguageSelector = ({ setLayoutDirection }) => {
   let { i18n } = useTranslation(),
-    stored_language_details = SUPPORTED_LANGUAGES[getLocalStorageItemDetails('i18nextLng')];
+    stored_language = getLocalStorageItemDetails('i18nextLng')?.split('-')?.[0] ?? 'en',
+    stored_language_details = SUPPORTED_LANGUAGES[stored_language];
 
   const changeLanguage = (lng) => {
     let new_language_id = stored_language_details.id + 1,
@@ -39,7 +40,7 @@ const LanguageSelector = ({ setLayoutDirection }) => {
 
   return (
     <Box className='language-selector' onClick={() => changeLanguage()}>
-      <Typography variant='p2' marginInlineStart='10px'>{stored_language_details.label}</Typography>
+      <Typography variant='p2' marginInlineStart='10px'>{stored_language_details?.label}</Typography>
       <Box mt='6px'>
         <img src={stored_language_details.logo} alt='eng' width='28' height='28' />
       </Box>
